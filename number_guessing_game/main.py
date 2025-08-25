@@ -1,4 +1,4 @@
-# Basic Python script: Greeting program
+# Basic Python script: Number guessing program
 import random
 
 def enter_number():
