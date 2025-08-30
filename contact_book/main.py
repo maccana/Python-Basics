@@ -1,3 +1,5 @@
+# Basic CLI-based contact book
+
 contacts = {}
 
 while True:
